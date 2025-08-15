@@ -27,6 +27,6 @@ public class DateFormatter
 
     public String parseDate(Date date)
     {
-         return df.format(date);
+        return df.format(date);
     }
 }
